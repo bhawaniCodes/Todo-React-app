@@ -18,6 +18,10 @@ This template provides a minimal setup for getting started with React using Vite
 - **Simple Counter**: Includes a basic counter component that is integrated into the header for demonstration purposes.
 
 
+## Additional things 
+- **Bundler**: Vite uses Rollup for bundling in production.
+- **Compiler**: Vite uses esbuild for transpiling JavaScript and TypeScript.
+
 ## Plugins
 
 Currently, two official plugins are available:
